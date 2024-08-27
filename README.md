@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guneeshvats&label=Profile%20views&color=0e75b6&style=flat" alt="guneeshvats" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/6302a837-6937-4a3a-9298-ed271beda161.svg)](https://wakatime.com/@6302a837-6937-4a3a-9298-ed271beda161)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=guneeshvats)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Representation learning in the audio domain**
