@@ -30,5 +30,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guneeshvats)    
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayp2204&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guneeshvats&layout=compact)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guneeshvats&" alt="guneeshvats" /></p>
