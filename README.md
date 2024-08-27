@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guneesh Vats</h1>
-<h3 align="center">A 5th year student at IIIT-Hyderabad</h3>
+<h3 align="center">A final year student in IIIT Hyderabad & a Machine Learning Engineer</h3>
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26896%26project%3D%26in=0)](https://codetime.dev)
 -------
@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **Representation learning in the audio domain**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **How to optimize performance of RAGs**
 
-- 💬 Ask me about **Natural Language Processing**
+- 💬 Ask me about **NLP, Speech Processing, Deep Learning Models and LLMs, I am kind of an expert in those ;)**
 
 - 📫 How to reach me **guneesh.vats@research.iiit.ac.in**
 
-- ⚡ Fun fact **Knowledge Graphs are easy!**
+- ⚡ Fun fact **Computer “bug” was inspired by a real insect!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
