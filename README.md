@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guneesh Vats</h1>
 <h3 align="center">A 5th year student at IIIT-Hyderabad</h3>
 
-[![wakatime](https://wakatime.com/badge/user/1065454d-985d-44d1-a2fa-cd7c89e359da.svg)](https://wakatime.com/@1065454d-985d-44d1-a2fa-cd7c89e359da)
-[![trophy](https://github-profile-trophy.vercel.app/?username=guneeshvats)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26896%26project%3D%26in=0)](https://codetime.dev)
 -------
 
