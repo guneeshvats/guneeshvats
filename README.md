@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guneesh Vats</h1>
 <h3 align="center">A 5th year student at IIIT-Hyderabad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guneeshvats&label=Profile%20views&color=0e75b6&style=flat" alt="guneeshvats" /> </p>
-
 [![wakatime](https://wakatime.com/badge/user/1065454d-985d-44d1-a2fa-cd7c89e359da.svg)](https://wakatime.com/@1065454d-985d-44d1-a2fa-cd7c89e359da)
 [![trophy](https://github-profile-trophy.vercel.app/?username=guneeshvats)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guneeshvats&label=Profile%20views&color=0e75b6&style=flat" alt="guneeshvats" /> </p>
+
 
 - 🔭 I’m currently working on **Representation learning in the audio domain**
 
