@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#ff79c6;>Hi 👋, I'm Guneesh Vats</h1>
-<h3 align="center">A final year student in IIIT Hyderabad & a Machine Learning Engineer</h3>
+<h1 align="center" style="color:#ff79c6;">Hi 👋, I'm Guneesh Vats</h1>
+<h3 align="center" style="color:#ff79c6;">A final year student in IIIT Hyderabad & a Machine Learning Engineer</h3>
 
 **Key Accomplishments:**
 - Ranked in the top 10 teams in the Flipkart GRID 5.0 Hackathon.
