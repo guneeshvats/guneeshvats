@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guneesh Vats</h1>
 <h3 align="center">A final year student in IIIT Hyderabad & a Machine Learning Engineer</h3>
 
+**Key Accomplishments:**
+- Ranked in the top 10% in the Flipkart GRID 5.0 Hackathon.
+- Developed advanced NLP solutions as a Machine Learning Engineer.
+- Published research papers on speech emotion perception and cognitive science.
+
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26896%26project%3D%26in=0)](https://codetime.dev)
 -------
 
