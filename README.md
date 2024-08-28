@@ -4,7 +4,7 @@
 **Key Accomplishments:**
 - Ranked in the top 10 teams in the Flipkart GRID 5.0 Hackathon.
 - Developed an automated knowledge graph and deployed it in real world.
-- Published research papers on speech emotion perception and cognitive science.
+- Published research papers on speech emotion perception and Changepoint detection in channel codes. 
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26896%26project%3D%26in=0)](https://codetime.dev)
 -------
