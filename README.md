@@ -23,8 +23,7 @@
 
 - ⚡ Fun fact **Computer “bug” was inspired by a real insect!**
 
-<h3 align="left">Connect with me:</h3>
-
+<h3 align="left" style="color:#ff79c6;">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/guneeshvats/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -33,7 +32,6 @@
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 
 <p align="left">
 </p>
