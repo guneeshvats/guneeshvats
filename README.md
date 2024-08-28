@@ -64,16 +64,10 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="margin: 10px;" /> 
   </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" style="margin: 10px;" /> 
-  </a> 
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin: 10px;" /> 
   </a> 
-  <a href="https://bulma.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40" style="margin: 10px;" /> 
-  </a> 
-
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 10px;" /> 
   </a> 
@@ -86,9 +80,10 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 10px;" />
 </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" style="margin: 10px;" /> 
-  </a>
+
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" style="margin: 10px;" /> 
+  </a> 
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" style="margin: 10px;" /> 
   </a> 
@@ -97,6 +92,9 @@
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin: 10px;" /> 
+  </a> 
+    <a href="https://bulma.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40" style="margin: 10px;" /> 
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin: 10px;" /> 
