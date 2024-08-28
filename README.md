@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guneesh Vats</h1>
+<h1 align="center" style="color:#ff79c6;>Hi 👋, I'm Guneesh Vats</h1>
 <h3 align="center">A final year student in IIIT Hyderabad & a Machine Learning Engineer</h3>
 
 **Key Accomplishments:**
