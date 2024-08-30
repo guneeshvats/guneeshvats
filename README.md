@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=so-bonkers" alt="guneeshvats" /></a> </p>
 
-- 🔭 I’m currently working on **Representation learning in the audio domain**
+- 🔭 I’m currently working on **Offine Changepoint detection methods and how to optimize them!!**
 
 - 🌱 I’m currently learning **How to optimize performance of RAGs**
 
