@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Offine Changepoint detection methods and how to optimize them!!**
 
-- 🌱 I’m currently learning **How to optimize performance of RAGs**
+- 🌱 I’m currently learning **Variety of Algorithms to force align the speech dataset in unique for fine tuning ASR**
 
 - 💬 Ask me about **NLP, Speech Processing, Deep Learning Models and LLMs, I am kind of an expert in those 😉**
 
