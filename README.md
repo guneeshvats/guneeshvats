@@ -158,9 +158,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guneeshvats&theme=radical" alt="Top Langs" style="margin-bottom: 20px;" />
-  <br/>
-
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guneeshvats&layout=compact&theme=radical" alt="Top Langs Compact" style="margin-bottom: 20px;" />
+<br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guneeshvats&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
