@@ -1,5 +1,8 @@
 <h1 align="center" style="color:#ff79c6;">Hi, I'm Guneesh Vats</h1>
-<h3 align="center" style="color:#ff79c6;">I am a Researcher and Machine Learning Engineer 🚀</h3>
+<h2 align="center" style="color:#ff79c6;">🤖 My code runs on coffee and dreams 🚀</h2>
+<h3 align="center" style="color:#ff79c6;">I am an AI researcher and a Machine Learning engineer with with a focus on NLP, Speech processing, and Offline Changepoint Detection in (Channel Codes) time series data.
+</h3>
+
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26896%26project%3D%26in=0)](https://codetime.dev)
 -------
