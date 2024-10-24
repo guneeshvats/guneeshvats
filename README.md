@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Offine Changepoint detection statistical methods and Designing neural networks to capture the time dependency of channel codes!!**
 
-- 📫 How to reach me 📫**guneesh.vats@research.iiit.ac.in**
+- 📫 How to reach me : **guneesh.vats@research.iiit.ac.in**
 
 
 <p align="left">
