@@ -11,16 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guneeshvats" alt="guneeshvats" /></a> </p>
 
-- 🔭 I’m currently working on **Offine Changepoint detection methods and how to optimize them!!**
+- 🔭 I’m currently working on **Offine Changepoint detection statistical methods and Designing neural networks to capture the time dependency of channel codes!!**
 
-- 🌱 I’m currently learning **Variety of Algorithms to force align the speech dataset in unique for fine tuning ASR**
-
-- 💬 Ask me about **NLP, Speech Processing, Deep Learning Models and LLMs, I am kind of an expert in those 😉**
-
-- 📫 How to reach me **guneesh.vats@research.iiit.ac.in**
-
-- ⚡ Fun fact **Computer “bug” was inspired by a real insect!**
-
+- 📫 How to reach me 📫**guneesh.vats@research.iiit.ac.in**
 
 
 <p align="left">
