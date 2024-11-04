@@ -168,11 +168,11 @@
   <a href="https://github.com/guneeshvats" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+    <a href="https://auth.geeksforgeeks.org/user/guneeshvats/profile" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-%232FA74D.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
+  </a>
   <a href="https://leetcode.com/guneeshv/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/guneeshvats/profile" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-%232FA74D.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
   </a>
 </p>
 
