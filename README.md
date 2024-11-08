@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#ff79c6;">Hi, I'm Guneesh Vats</h1>
 <h2 align="center" style="color:#ff79c6;">🤖 My code runs on coffee and dreams 🚀</h2>
-<h3 align="center" style="color:#ff79c6;">I am an AI researcher and a Machine Learning engineer with with a focus on NLP, Speech processing, and Offline Changepoint Detection in (Channel Codes) time series data.
+<h3 align="center" style="color:#ff79c6;">I am a Machine Learning Engineer and Speech Processing and AI Researcher with a focus on LLMOps, NLP Use cases in various Retireval Tasks, Speech processing, Knowledge Graphs and Offline Changepoint Detection in (Channel Codes) time series data.
 </h3>
 
 Codetime since - Oct 2024
