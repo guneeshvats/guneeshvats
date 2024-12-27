@@ -8,10 +8,6 @@ Codetime since - Oct 2024
 [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=134&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26896%26project%3D%26in=0)](https://codetime.dev)
 -------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guneeshvats&label=Profile%20views&color=0e75b6&style=flat" alt="guneeshvats" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guneeshvats" alt="guneeshvats" /></a> </p>
-
 - 🔭 I’m currently working on **Offine Changepoint detection statistical methods and Designing neural networks to capture the time dependency of channel codes!!**
 
 - 📫 How to reach me : **guneesh.vats@research.iiit.ac.in**
