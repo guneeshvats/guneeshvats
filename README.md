@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#ff79c6;">Hi, I'm Guneesh Vats</h1>
-<h2 align="center" style="color:#ff79c6;">My Philosphy : Leave Code Better than You Found It! v🚀</h2>
-<h3 align="center" style="color:#ff79c6;">I am a Machine Learning Engineer and an AI Researcher
+<h2 align="center" style="color:#ff79c6;">My Philosphy : Leave Code Better than You Found It! 🚀</h2>
+<h3 align="center" style="color:#ff79c6;">I am a Machine Learning Engineer and a Research Scientist
 </h3>
 
 Codetime since - Oct 2024
