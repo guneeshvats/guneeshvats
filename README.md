@@ -8,7 +8,7 @@ Codetime since - Oct 2024
 [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=134&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26896%26project%3D%26in=0)](https://codetime.dev)
 -------
 
-- 🔭 I’m currently working on **Offine Changepoint detection statistical methods and Designing neural networks to capture the time dependency of channel codes!!**
+- 🔭 I’m currently working on **Offine Changepoint detection of time series data!!**
 
 - 📫 How to reach me : **guneesh.vats@research.iiit.ac.in**
 
