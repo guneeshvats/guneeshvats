@@ -5,7 +5,7 @@
 
 Codetime since - Oct 2024
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=134&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26896%26project%3D%26in=0)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D26896)](https://codetime.dev)
 -------
 
 - 🔭 I’m currently working on **Offine Changepoint detection of time series data!!**
