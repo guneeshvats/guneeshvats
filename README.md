@@ -3,14 +3,14 @@
 <h3 align="center" style="color:#ff79c6;">I am a Machine Learning Engineer and a Research Scientist
 </h3>
 
-Codetime since - Oct 2024
+Codetime since - Nov 2024
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D26896)](https://codetime.dev)
 -------
 
-- 🔭 I’m currently working on **Offine Changepoint detection of time series data!!**
+- 🔭 I’m currently working on **Offine Changepoint detection algorithms for my MS Thesis!!**
 
-- 📫 How to reach me : **guneesh.vats@research.iiit.ac.in**
+- How to reach me : **guneesh.vats@research.iiit.ac.in**
 
 
 <p align="left">
