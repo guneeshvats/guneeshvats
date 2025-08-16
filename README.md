@@ -11,10 +11,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Offline Changepoint Detection Algorithms for Channel Codes**
-- 🎓 Passionate about **Machine Learning, Information Theory, and AI Research**
-- 📅 **Coding since:** November 2024  
-- 📫 Reach me at: **guneesh.vats@research.iiit.ac.in**
+- Currently working on **Offline Changepoint Detection Algorithms for Channel Codes**
+- Passionate about **Machine Learning, Information Theory, and AI Research**
+- **Coding since:** November 2024  
+- Reach me at: **guneesh.vats@research.iiit.ac.in**
 
 ---
 
