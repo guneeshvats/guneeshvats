@@ -1,6 +1,6 @@
 <!-- Banner / Title -->
-<h1 align="center">👋 Hi, I'm <span style="color:#ff79c6;">Guneesh Vats</span></h1>
-<h3 align="center"><em>💡 My Philosophy: Leave Code Better Than You Found It</em></h3>
+<h1 align="center">Hi, I'm <span style="color:#ff79c6;">Guneesh Vats</span></h1>
+<h3 align="center"><em> My Philosophy: Leave Code Better Than You Found It</em></h3>
 
 <p align="center">
   <strong>Machine Learning Engineer</strong> • <strong>Undergrad Researcher</strong>  
@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - Currently working on **Offline Changepoint Detection Algorithms for Channel Codes**
 - Passionate about **Machine Learning, Information Theory, and AI Research**
 - **Coding since:** November 2024  
@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 My Coding Activity
+### My Coding Activity
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D26896)](https://codetime.dev)
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/guneeshvats/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
