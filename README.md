@@ -11,9 +11,8 @@
 ---
 
 ### About Me
-- Currently working on **Offline Changepoint Detection Algorithms for Channel Codes**
-- Passionate about **Machine Learning, Information Theory, and AI Research**
-- **Coding since:** November 2024  
+- Currently I am pursuing research on **Offline Changepoint Detection Algorithms for Channel Codes**
+- Passionate about **Machine Learning, Information Theory, Statistical Inferencing and Modern LLM Research**
 - Reach me at: **guneesh.vats@research.iiit.ac.in**
 
 ---
