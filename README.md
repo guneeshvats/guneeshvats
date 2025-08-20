@@ -5,7 +5,7 @@
 <p align="center">
   <strong>Machine Learning Engineer</strong> • <strong>Undergrad Researcher</strong>  
   <br/>
-  IIIT Hyderabad, India
+  IIIT Hyderabad 
 </p>
 
 ---
