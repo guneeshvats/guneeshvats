@@ -5,7 +5,7 @@
 <p align="center">
   <strong>Machine Learning Engineer</strong> • <strong>Undergrad Researcher</strong>  
   <br/>
-  IIIT Hyderabad 
+  IIIT Hyderabad, Gachibowli-500032, Hyderabad, Telangana, India
 </p>
 
 ---
