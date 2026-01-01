@@ -11,7 +11,7 @@
 ---
 
 ### About Me
-- Currently I am pursuing research on **Offline Changepoint Detection Algorithms for Channel Codes**
+- I am working as a research scientist at ServiceNow and pursuing research on **Changepoint Detection Algorithms**
 - Passionate about **Machine Learning, Information Theory, Statistical Inferencing and Modern LLM Research**
 - Reach me at: **guneesh.vats@research.iiit.ac.in**
 
